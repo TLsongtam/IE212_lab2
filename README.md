@@ -1,4 +1,4 @@
-Cấu trúc các file Outout:
+Cấu trúc các file:
 - Bài 1: file output
 - Bài 2: các file :
   - output_aspect
